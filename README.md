@@ -11,7 +11,7 @@
   
 # 📬 How to Reach Me
 - **LinkedIn**: [Sruti Patro](https://www.linkedin.com/in/sruti-patro-b10066253)
-- **Email**: [Sruti Patro](mailto:patrocorgi29@example.com)
+- **Email**: [Sruti Patro](mailto:patrocorgi29@gmail.com)
 
 # 💻 Tech Stack
 
