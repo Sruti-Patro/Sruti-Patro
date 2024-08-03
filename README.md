@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://media.giphy.com/media/pabqDSlAbRMZsNCC2M/giphy.gif?cid=790b7611ttpl36qqvm8b3y0hovvwoicn6090t9u7z1f7xj68&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding Animation" width="300" height="300" style="border-radius: 10px;"/>
+</div>
+
 # Hi there 👋 I am Sruti Patro
 
 <!--
