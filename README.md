@@ -15,9 +15,9 @@
 
   
 # 📬 How to Reach Me
-- **LinkedIn**: [Sruti Patro](https://www.linkedin.com/in/sruti-patro)
-- **Email**: [Sruti Patro](mailto:patrocorgi29@gmail.com)
-- **My Portfolio**: [Sruti Patro](https://sruti-patro.vercel.app/)
+- [**LinkedIn**](https://www.linkedin.com/in/sruti-patro)
+- [**Email**](mailto:patrocorgi29@gmail.com)
+- [**My Portfolio**](https://patro-sruti.vercel.app/)
 
 # 💻 Tech Stack
 
