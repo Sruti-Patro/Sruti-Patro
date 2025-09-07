@@ -9,14 +9,15 @@
 **Sruti-Patro/Sruti-Patro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m currently working on ReactJs 
-- 🌱 I’m currently learning ReactJs and Java
-- 👯 I’m looking to collaborate on projects in ReactJs
+- 🔭 I’m currently working on Next.js 
+- 🌱 I’m currently learning ReactJs, Node.js and Java
+- 👯 I’m looking to collaborate on projects in ReactJs and Next.js
 
   
 # 📬 How to Reach Me
 - **LinkedIn**: [Sruti Patro](https://www.linkedin.com/in/sruti-patro)
 - **Email**: [Sruti Patro](mailto:patrocorgi29@gmail.com)
+- **My Portfolio**: [Sruti Patro](https://sruti-patro.vercel.app/)
 
 # 💻 Tech Stack
 
